@@ -105,6 +105,12 @@ a {
 }
 
 .gift-icon {
-  font-size: 48px;
-  margin-top: 20px;
+  width: 100px;
+  margin-top: 0;
+}
+
+.gift-icon img {
+  width: 100%;
+  height: auto;
+  display: block;
 }
